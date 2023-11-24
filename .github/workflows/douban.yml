@@ -27,7 +27,7 @@ jobs:
     - name: movie
       uses: lizheming/doumark-action@master
       with:
-        id: 185455848
+        id: 2093009
         type: movie
         format: json
         dir: ./data/douban
