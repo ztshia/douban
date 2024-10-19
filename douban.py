@@ -38,5 +38,5 @@ with open(json_file_path, 'r', encoding='utf-8') as file:
 # 遍历 JSON 数据中的每一项，提取图片 URL 和 id
 for item in data_json:
     image_url = item['subject']['pic']['normal']
-    image_id = item['movie']['id']
+    image_id = item['subject']['id']
     download_file(image_url, image_id)  # 调用下载函数
