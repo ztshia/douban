@@ -478,8 +478,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2024",
 			"card_subtitle": "2024 / 中国大陆 / 喜剧 / 闫非 彭大魔 / 沈腾 马丽",
@@ -1942,7 +1942,7 @@
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2024",
-			"card_subtitle": "2024 / 中国大陆 / 剧情 爱情 家庭 /  / 彭昱畅 周也",
+			"card_subtitle": "2024 / 中国大陆 / 剧情 爱情 家庭 / 张嘉佳 / 彭昱畅 周也",
 			"id": "36089988",
 			"genres": [
 				"剧情",
@@ -2049,7 +2049,7 @@
 			"subtype": "movie",
 			"directors": [
 				{
-					"name": ""
+					"name": "张嘉佳"
 				}
 			],
 			"album_no_interact": false,
@@ -2362,8 +2362,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2024",
 			"card_subtitle": "2024 / 中国大陆 / 剧情 喜剧 爱情 / 刘博文 / 黄轩 柳岩",
@@ -2610,8 +2610,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2024",
 			"card_subtitle": "2024 / 中国大陆 / 喜剧 / 何念 / 庄达菲 陈昊宇",
@@ -3002,7 +3002,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 264022,
+				"count": 264025,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -3295,7 +3295,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 728230,
+				"count": 728231,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -4173,7 +4173,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 242270,
+				"count": 242271,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.4
@@ -4448,7 +4448,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 296149,
+				"count": 296150,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -5361,7 +5361,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 716522,
+				"count": 716523,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -5502,7 +5502,7 @@
 					"name": "张壹男"
 				},
 				{
-					"name": ""
+					"name": "黄炎"
 				},
 				{
 					"name": "宋家腾"
@@ -6587,7 +6587,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 512982,
+				"count": 512984,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -7117,7 +7117,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 389064,
+				"count": 389066,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -7379,7 +7379,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1011099,
+				"count": 1011100,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -8432,7 +8432,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 692314,
+				"count": 692316,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.8
@@ -8961,7 +8961,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 192437,
+				"count": 192438,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -9694,8 +9694,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2023",
 			"card_subtitle": "2023 / 中国大陆 / 喜剧 运动 / 高虎 / 魏翔 王智",
@@ -13451,7 +13451,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1042790,
+				"count": 1042791,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -14570,7 +14570,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 520618,
+				"count": 520619,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -15038,8 +15038,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2012",
 			"card_subtitle": "2012 / 中国大陆 / 剧情 爱情 传记 古装 / 吴琦 高峰 / 万茜 秦汉",
@@ -19280,8 +19280,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2022",
 			"card_subtitle": "2022 / 中国大陆 / 喜剧 动作 爱情 / 韩寒 / 刘昊然 刘浩存",
@@ -19915,7 +19915,7 @@
 					"name": "六小龄童"
 				},
 				{
-					"name": ""
+					"name": "温锡莹"
 				},
 				{
 					"name": "梁明"
@@ -20681,7 +20681,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 772634,
+				"count": 772635,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -22275,8 +22275,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2021",
 			"card_subtitle": "2021 / 中国大陆 中国香港 / 剧情 历史 战争 / 陈凯歌 徐克 林超贤 / 吴京 易烊千玺",
@@ -29853,7 +29853,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 412496,
+				"count": 412497,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.8
@@ -32016,7 +32016,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1769222,
+				"count": 1769223,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -32040,8 +32040,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 美国 中国大陆 / 剧情 喜剧 音乐 传记 / 彼得·法雷里 / 维果·莫腾森 马赫沙拉·阿里",
@@ -32085,7 +32085,7 @@
 					"name": "冯·刘易斯"
 				},
 				{
-					"name": ""
+					"name": "乔恩·索特兰"
 				},
 				{
 					"name": "唐·斯达克"
@@ -33316,8 +33316,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 中国大陆 / 剧情 喜剧 / 饶晓志 / 陈建斌 任素汐",
@@ -34412,7 +34412,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 475440,
+				"count": 475441,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -37784,7 +37784,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2018",
@@ -38033,8 +38033,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 美国 / 惊悚 恐怖 / 约翰·卡拉辛斯基 / 艾米莉·布朗特 约翰·卡拉辛斯基",
@@ -38674,7 +38674,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1441999,
+				"count": 1442000,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -40021,8 +40021,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 中国大陆 日本 / 剧情 悬疑 奇幻 古装 / 陈凯歌 / 黄轩 染谷将太",
@@ -40531,8 +40531,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2018",
 			"card_subtitle": "2018 / 中国大陆 / 爱情 冒险 / 吴有音 / 赵又廷 杨子姗",
@@ -40834,7 +40834,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 150130,
+				"count": 150132,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -41634,7 +41634,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 873206,
+				"count": 873208,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -42126,8 +42126,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2017",
 			"card_subtitle": "2017 / 中国大陆 / 喜剧 音乐 / 大鹏 / 大鹏 乔杉",
@@ -42607,7 +42607,7 @@
 					"name": "杜建桥"
 				},
 				{
-					"name": ""
+					"name": "周冠廷"
 				},
 				{
 					"name": "安·詹姆斯"
@@ -47852,7 +47852,7 @@
 					"name": "蔡纲"
 				},
 				{
-					"name": ""
+					"name": "蒙亭宜"
 				},
 				{
 					"name": "沙全泽"
@@ -52095,7 +52095,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 318377,
+				"count": 318376,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -55765,8 +55765,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "1991",
 			"card_subtitle": "1991 / 中国大陆 / 剧情 家庭 / 黄健中 / 赵丽蓉 李保田",
@@ -56867,7 +56867,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145117,
+				"count": 145118,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.9
@@ -57302,7 +57302,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218608,
+				"count": 218609,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -57633,7 +57633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 291997,
+				"count": 291998,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -60573,7 +60573,7 @@
 					"name": "敏迪·卡灵"
 				},
 				{
-					"name": ""
+					"name": "凯特林·迪亚斯"
 				},
 				{
 					"name": "戴安·琳恩"
@@ -61345,7 +61345,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 667668,
+				"count": 667669,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -61807,8 +61807,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png"
 			],
 			"year": "2015",
 			"card_subtitle": "2015 / 日本 / 喜剧 爱情 / 平野真 / 石原里美 山下智久",
@@ -63615,7 +63615,7 @@
 					"name": "安田显"
 				},
 				{
-					"name": ""
+					"name": "阿部菜渚美"
 				},
 				{
 					"name": "中村靖日"
@@ -65361,7 +65361,7 @@
 					"name": "常戎"
 				},
 				{
-					"name": ""
+					"name": "张伟平"
 				}
 			],
 			"color_scheme": {
@@ -67143,7 +67143,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 517183,
+				"count": 517184,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -68602,7 +68602,7 @@
 					"name": "王琦"
 				},
 				{
-					"name": ""
+					"name": "赵雪"
 				},
 				{
 					"name": "陶亮"
@@ -70587,8 +70587,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2015",
 			"card_subtitle": "2015 / 中国大陆 / 喜剧 / 大鹏 / 大鹏 袁姗姗",
@@ -71524,7 +71524,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2005466,
+				"count": 2005468,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -71702,7 +71702,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229273,
+				"count": 229274,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -72655,7 +72655,7 @@
 					"name": "师悦玲"
 				},
 				{
-					"name": ""
+					"name": "李长麟"
 				},
 				{
 					"name": "谈莎莎"
@@ -72840,7 +72840,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 400976,
+				"count": 400977,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -77079,7 +77079,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 260450,
+				"count": 260451,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.6
@@ -80327,7 +80327,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 707904,
+				"count": 707905,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -80576,7 +80576,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 381153,
+				"count": 381154,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.5
@@ -82021,8 +82021,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2013",
 			"card_subtitle": "2013 / 中国大陆 / 剧情 犯罪 西部 / 宁浩 / 徐峥 黄渤",
@@ -84845,7 +84845,7 @@
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2013",
-			"card_subtitle": "2013 / 中国大陆 / 动作 冒险 /  / 刘德华 林志玲",
+			"card_subtitle": "2013 / 中国大陆 / 动作 冒险 / 孙健君 / 刘德华 林志玲",
 			"id": "5364905",
 			"genres": [
 				"动作",
@@ -84912,7 +84912,7 @@
 			"subtype": "movie",
 			"directors": [
 				{
-					"name": ""
+					"name": "孙健君"
 				}
 			],
 			"album_no_interact": false,
@@ -89781,7 +89781,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 336205,
+				"count": 336206,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -91068,7 +91068,7 @@
 					"name": "凯·李"
 				},
 				{
-					"name": ""
+					"name": "德怀特·马费尔德"
 				},
 				{
 					"name": "路易莎·莫里茨"
@@ -91077,10 +91077,10 @@
 					"name": "威廉·雷德菲尔德"
 				},
 				{
-					"name": ""
+					"name": "菲利普·罗斯"
 				},
 				{
-					"name": ""
+					"name": "米米·萨奇席恩"
 				},
 				{
 					"name": "文森特·斯卡维利"
@@ -91800,7 +91800,7 @@
 					"name": "廖学秋"
 				},
 				{
-					"name": ""
+					"name": "张溪芸"
 				},
 				{
 					"name": "韩秋池"
@@ -92450,7 +92450,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 258076,
+				"count": 258077,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -96245,7 +96245,7 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
 				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2011",
@@ -96372,7 +96372,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 323000,
+				"count": 323001,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -96634,8 +96634,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2010",
 			"card_subtitle": "2010 / 中国大陆 / 喜剧 爱情 / 冯小刚 / 葛优 舒淇",
@@ -100720,7 +100720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1185335,
+				"count": 1185336,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.5
@@ -101977,7 +101977,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 594279,
+				"count": 594280,
 				"max": 10,
 				"star_count": 4,
 				"value": 8
@@ -102499,8 +102499,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "1953",
 			"card_subtitle": "1953 / 美国 / 剧情 喜剧 爱情 / 威廉·惠勒 / 奥黛丽·赫本 格利高里·派克",
@@ -102999,7 +102999,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 250153,
+				"count": 250154,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -103360,8 +103360,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"year": "2009",
 			"card_subtitle": "2009 / 中国大陆 中国香港 / 剧情 历史 / 韩三平 黄建新 / 唐国强 张国立",
@@ -103931,7 +103931,7 @@
 					"name": "李诗妍"
 				},
 				{
-					"name": ""
+					"name": "赵达焕"
 				},
 				{
 					"name": "南昶熙"
@@ -106476,7 +106476,7 @@
 					"name": "王朔"
 				},
 				{
-					"name": ""
+					"name": "尚楠"
 				},
 				{
 					"name": "方化"
@@ -106594,7 +106594,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3080555,
+				"count": 3080556,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.7
@@ -109543,7 +109543,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 109826,
+				"count": 109827,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -109978,8 +109978,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2004",
 			"card_subtitle": "2004 / 中国大陆 中国香港 / 剧情 动作 犯罪 / 冯小刚 / 刘德华 刘若英",
@@ -110217,7 +110217,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 522620,
+				"count": 522621,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -110646,8 +110646,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2004",
 			"card_subtitle": "2004 / 中国大陆 中国香港 / 喜剧 动作 犯罪 奇幻 / 周星驰 / 周星驰 元秋",
@@ -111040,7 +111040,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 443678,
+				"count": 443679,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -111574,7 +111574,7 @@
 					"name": "司盖兰·布鲁克斯"
 				},
 				{
-					"name": ""
+					"name": "威尔·C"
 				},
 				{
 					"name": "杰弗里·古尔德"
@@ -111933,7 +111933,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2274255,
+				"count": 2274256,
 				"max": 10,
 				"star_count": 5,
 				"value": 9.6
@@ -111957,8 +111957,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "1993",
 			"card_subtitle": "1993 / 中国大陆 中国香港 / 剧情 爱情 同性 / 陈凯歌 / 张国荣 张丰毅",
@@ -112087,7 +112087,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87008,
+				"count": 87009,
 				"max": 10,
 				"star_count": 2.5,
 				"value": 5.3
@@ -112706,8 +112706,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img3.doubanio.com/f/frodo/31f275ce1a4a35ed76a45ecc39a0a32896d99c52/pics/vendors/sohu.png"
 			],
 			"year": "2006",
 			"card_subtitle": "2006 / 美国 / 剧情 家庭 传记 / 加布里埃莱·穆奇诺 / 威尔·史密斯 贾登·史密斯",
@@ -113683,7 +113683,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2421876,
+				"count": 2421879,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
@@ -116053,8 +116053,8 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/fbc90f355fc45d5d2056e0d88c697f9414b56b44/pics/vendors/tencent.png",
-				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
+				"https://img1.doubanio.com/f/frodo/990703f165ee40fa7a023949252882058a2ba57d/pics/vendors/mgtv.png"
 			],
 			"year": "2008",
 			"card_subtitle": "2008 / 美国 / 动作 犯罪 奇幻 / 彼得·博格 / 威尔·史密斯 查理兹·塞隆",
@@ -116870,7 +116870,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1619054,
+				"count": 1619055,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.2
@@ -117115,7 +117115,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2382351,
+				"count": 2382352,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.4
